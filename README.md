@@ -1,7 +1,7 @@
 
 
 
-## <h2 align="center"> Hi I'm Adebayo Olamilekan 👋  </h2>
+## <h2 align="center"> Hi I'm Adebayo Olamilekan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" height="30">   </h2>
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&center=true&width=800&lines=FrontEnd+Developer+;Blockend+Developer)](https://git.io/typing-svg)
 
 <img align='right' src='https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/coding-freak.gif' width="800" height="600">
@@ -28,5 +28,6 @@
 
   </p>
 
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 
