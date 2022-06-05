@@ -1,7 +1,7 @@
 
 
 
-## Hi I'm Adebayo Olamilekan 👋 
+## <h2 align="center"> Hi I'm Adebayo Olamilekan 👋  </h2>
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&center=true&width=800&lines=FrontEnd+Developer+;Blockend+Developer)](https://git.io/typing-svg)
 
 - 🔭 I’m currently learning  building Dapps 
