@@ -4,7 +4,7 @@
 ## <h2 align="center"> Hi I'm Adebayo Olamilekan 👋  </h2>
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&center=true&width=800&lines=FrontEnd+Developer+;Blockend+Developer)](https://git.io/typing-svg)
 
-<img align='right' src='https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/coding-freak.gif' width="225" height="225">
+<img align='right' src='https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/coding-freak.gif' width="800" height="600">
 
 - 🔭 I’m currently learning  building Dapps 
 - 🌱 I’m currently learning Blockchain development
