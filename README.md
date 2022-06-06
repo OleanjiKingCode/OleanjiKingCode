@@ -1,13 +1,13 @@
 
 
 
-## <h2 align="center"> Hi I'm Adebayo Olamilekan <img src="https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/Hi.gif" width="30" height="30">   </h2>
+## <h2 align="center"> Hi I'm Adebayo Olamilekan (Oleanji) <img src="https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/Hi.gif" width="30" height="30">   </h2>
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&center=true&width=800&lines=FrontEnd+Developer+;Blockend+Developer)](https://git.io/typing-svg)
 
 <img align='right' src='https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/coding-freak.gif' width="800" height="600">
 
-- 🔭 I’m currently learning  building Dapps 
-- 🌱 I’m currently learning Blockchain development
+- 🔭 I’m currently learning  building Application (Centeralised and Decentralised)
+- 🌱 I’m currently learning Javascript and Blockchain development
 - 💬 Ask me about HTML, CSS , JavaScript and Blockchain.
 - 📫 How to reach me: oleanji.sol@gmail.com
 - ⚡ Fun fact: I spend hours drawing and sketching.
@@ -18,6 +18,11 @@
 <h2 align="left">Languages and Tools:</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,next,vscode,cs,dotnet,bootstrap,dart,github,solidity)](https://skillicons.dev)
+
+
+## My Projects 
+## Connect with Me 
+
 
 ## 📊 My Github Stats
 
