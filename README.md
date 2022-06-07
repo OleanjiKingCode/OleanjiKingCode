@@ -2,7 +2,7 @@
 
 
 ## <h2 align="center"> Hi I'm Adebayo Olamilekan (Oleanji) <img src="https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/Hi.gif" width="30" height="30">   </h2>
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&center=true&width=800&lines=FrontEnd+Developer+;Blockend+Developer)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&center=true&width=800&lines=FrontEnd+Developer+;Web+Developer;Blockend+Developer)](https://git.io/typing-svg)
 
 <img align='right' src='https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/coding-freak.gif' width="800" height="600">
 
@@ -20,7 +20,28 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,next,vscode,cs,dotnet,bootstrap,dart,github,solidity)](https://skillicons.dev)
 
 
-## My Projects 
+## My Projects
+<p align="center"> 
+<code> 
+
+<img align='right' src='https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/GIF1.gif' width="600" height="600">
+<br/>
+This is gif One 
+<br/>
+<a> Link to Dapp. </a>
+</code>
+ <code> 
+
+<img align='right' src='https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/GIF2.gif' width="600" height="600">
+<br/>
+This is gif Two 
+<br/>
+<a> Link to Dapp. </a>
+</code>
+</p>
+
+
+
 ## Connect with Me 
 
 
