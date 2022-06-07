@@ -24,7 +24,7 @@
 <p align="center"> 
 <code> 
 
-<img src='https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/GIF1.gif' >
+<img src='https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/GIF1.gif' width="20%" height="20%" >
 <br/>
 This is gif One 
 <br/>
@@ -32,7 +32,7 @@ This is gif One
 </code>
  <code> 
 
-<img align='right' src='https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/GIF-2.gif' >
+<img align='right' src='https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/GIF-2.gif' width="20%" height="20%"  >
 <br/>
 This is gif Two 
 <br/>
