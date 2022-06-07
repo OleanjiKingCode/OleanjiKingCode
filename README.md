@@ -32,7 +32,7 @@ This is gif One
 </code>
  <code> 
 
-<img align='right' src='https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/GIF2.gif' >
+<img align='right' src='https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/GIF-2.gif' >
 <br/>
 This is gif Two 
 <br/>
