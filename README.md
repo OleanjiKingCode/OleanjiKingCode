@@ -5,7 +5,7 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&center=true&width=800&lines=FrontEnd+Developer+;Web+Developer;Blockend+Developer)](https://git.io/typing-svg)
 
 <img align='right' src='https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/coding-freak.gif' width="800" height="600">
-
+- I'm from Nigeria.
 - 🔭 I’m currently learning  building Application (Centeralised and Decentralised)
 - 🌱 I’m currently learning Javascript and Blockchain development
 - 💬 Ask me about HTML, CSS , JavaScript and Blockchain.
@@ -17,7 +17,7 @@
 
 <h2 align="left">Languages and Tools:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,next,vscode,cs,dotnet,bootstrap,dart,github,solidity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,next,vscode,cs,dotnet,bootstrap,flutter,github,solidity)](https://skillicons.dev)
 
 
 # My Projects
@@ -70,6 +70,9 @@
 
 ## Connect with Me 
 
+
+
+<a href="https://meme-forest-demo-fafgqyl1l-oleanjikingcode.vercel.app/">Links Site. </a>
 
 ## 📊 My Github Stats
 
