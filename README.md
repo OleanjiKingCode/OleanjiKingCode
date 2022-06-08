@@ -35,11 +35,11 @@ This is gif One
 
 <code align="right"> 
 
-<img align='right' src='https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/GIF-2.gif' width="20%" height="20%"  >
-<br/>
-This is gif Two 
-<br/>
-<a> Link to Dapp. </a>
+  <img align='right' src='https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/GIF-2.gif' width="20%" height="20%"  >
+  <br/>
+  This is gif Two 
+  <br/>
+  <a> Link to Dapp. </a>
 </code>
 
 
