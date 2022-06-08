@@ -20,11 +20,11 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,next,vscode,cs,dotnet,bootstrap,dart,github,solidity)](https://skillicons.dev)
 
 
-## My Projects
+# My Projects
 
   
 
-  <img align='right' src='https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/GIF1.gif' width="40%" height="40%" >
+  <a href="https://twitter-hackathon-project-review.vercel.app/"><img align='right' src='https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/GIF1.gif' width="40%" height="40%" > </a> 
 
   
 ### Oleanji Chainlink DAO
@@ -35,15 +35,18 @@
     - Hardhat
     - Solidity
     - Ether JS  Next JS 
-  <br/>
-  <a href="https://twitter-hackathon-project-review.vercel.app/"> Oleanji Chainlink DAO. </a>
+   <a href="https://twitter-hackathon-project-review.vercel.app/"> Oleanji Chainlink DAO. </a>
+  
+  
  
-
+<br/>
+<br/>
+<br/>
 <br/>
 
   
-
-  <img align='left' src='https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/GIF-2.gif' width="40%" height="40%"  >
+<a href="https://meme-forest-demo-fafgqyl1l-oleanjikingcode.vercel.app/"> <img align='left' src='https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/GIF-2.gif' width="40%" height="40%"  > </a>
+  
   
 ### MemeForest
     This Dapp uses these technologies:
@@ -54,8 +57,9 @@
     - Hardhat
     - Solidity
     - Ether JS  Next JS 
-  <br/>
   <a href="https://meme-forest-demo-fafgqyl1l-oleanjikingcode.vercel.app/"> Oleanji Chainlink DAO. </a>
+  <br/>
+  
  
   
 
