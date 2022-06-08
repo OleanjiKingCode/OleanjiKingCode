@@ -24,7 +24,7 @@
 
   
 
-  <a href="https://twitter-hackathon-project-review.vercel.app/"><img align='right' src='https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/GIF1.gif' width="40%" height="40%" > </a> 
+  <a href="https://twitter-hackathon-project-review.vercel.app/"><img align='right' src='https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/GIF (1).gif' width="40%" height="40%" > </a> 
 
   
 ### Oleanji Chainlink DAO
@@ -45,7 +45,7 @@
 <br/>
 
   
-<a href="https://meme-forest-demo-fafgqyl1l-oleanjikingcode.vercel.app/"> <img align='left' src='https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/GIF-2.gif' width="40%" height="40%"  > </a>
+<a href="https://meme-forest-demo-fafgqyl1l-oleanjikingcode.vercel.app/"> <img align='left' src='https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/GIF (2).gif' width="40%" height="40%"  > </a>
   
   
 ### MemeForest
