@@ -21,27 +21,27 @@
 
 
 ## My Projects
-<p align="center">
-<p align="left"> 
+<div align="center">
+  <p align="left"> 
 
-<img src='https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/GIF1.gif' width="20%" height="20%" >
-<br/>
-This is gif One 
-<br/>
-<a> Link to Dapp. </a>
-</p>
+  <img src='https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/GIF1.gif' width="20%" height="20%" >
+  <br/>
+  This is gif One 
+  <br/>
+  <a> Link to Dapp. </a>
+  </p>
 
 
 
-<p align="right"> 
+  <p align="right"> 
 
-<img  src='https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/GIF-2.gif' width="20%" height="20%"  >
-<br/>
-This is gif Two 
-<br/>
-<a> Link to Dapp. </a>
-</p>
-</p>
+  <img  src='https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/GIF-2.gif' width="20%" height="20%"  >
+  <br/>
+  This is gif Two 
+  <br/>
+  <a> Link to Dapp. </a>
+  </p>
+</div>
 
 
 ## Connect with Me 
