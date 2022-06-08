@@ -23,10 +23,11 @@
 ## My Projects
  
 <p align= "left">
+| Topic|Image|
 |-----------|
-| <img src='https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/GIF1.gif' width="20%" height="20%" >|
-|  This is gif One |
-| <a> Link to Dapp. </a>|
+| <img src='https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/GIF1.gif' width="20%" height="20%" >| image|
+|  This is gif One | image|
+| <a> Link to Dapp. </a>| image|
 </p>
 
 
