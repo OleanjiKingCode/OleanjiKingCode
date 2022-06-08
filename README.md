@@ -39,11 +39,11 @@
   <a href="https://twitter-hackathon-project-review.vercel.app/"> Oleanji Chainlink DAO. </a>
  
 
-
+<br/>
 
   
 
-  <img align='right' src='https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/GIF-2.gif' width="40%" height="40%"  >
+  <img align='left' src='https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/GIF-2.gif' width="40%" height="40%"  >
   
 ### MemeForest
     This Dapp uses these technologies:
