@@ -21,8 +21,8 @@
 
 
 ## My Projects
-<div align="center">
-  <div align="left"> 
+
+  <div align="right"> 
 
   <img src='https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/GIF1.gif' width="20%" height="20%" >
   <br/>
@@ -33,15 +33,15 @@
 
 
 
-  <div align="right"> 
+  
 
   <img  src='https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/GIF-2.gif' width="20%" height="20%"  >
   <br/>
   This is gif Two 
   <br/>
   <a> Link to Dapp. </a>
-  </div>
-</div>
+  
+Initial Commit
 
 
 ## Connect with Me 
