@@ -21,7 +21,7 @@
 
 
 ## My Projects
-<p align="center>
+<p align="center">
 <p align="left"> 
 
 <img src='https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/GIF1.gif' width="20%" height="20%" >
