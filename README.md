@@ -24,10 +24,12 @@
 
   
 
-  <a href="https://twitter-hackathon-project-review.vercel.app/"><img align='right' src='https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/GIF (1).gif' width="40%" height="40%" > </a> 
+  
 
   
 ### Oleanji Chainlink DAO
+   <a href="https://twitter-hackathon-project-review.vercel.app/"><img align='right' src='https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/GIF (1).gif' width="40%" height="40%" > </a> 
+
     This Dapp uses these technologies:
     - Rinkeby Testnet Network
     - Chainlink Contracts
@@ -45,10 +47,11 @@
 <br/>
 
   
-<a href="https://meme-forest-demo-fafgqyl1l-oleanjikingcode.vercel.app/"> <img align='left' src='https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/GIF (2).gif' width="40%" height="40%"  > </a>
-  
+
   
 ### MemeForest
+<a href="https://meme-forest-demo-fafgqyl1l-oleanjikingcode.vercel.app/"> <img align='left' src='https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/GIF (2).gif' width="40%" height="40%"  > </a>
+  
     This Dapp uses these technologies:
     - Mumbai Testnet Network
     - Openzeppelin Contracts
