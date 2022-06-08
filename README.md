@@ -22,14 +22,14 @@
 
 ## My Projects
  
-<code align="left"> 
+<p align="left"> 
 
 <img src='https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/GIF1.gif' width="20%" height="20%" >
 <br/>
 This is gif One 
 <br/>
 <a> Link to Dapp. </a>
-</code>
+</p>
 
 
 
