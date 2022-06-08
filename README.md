@@ -22,26 +22,43 @@
 
 ## My Projects
 
-  <div align="right"> 
+  
 
-  <img src='https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/GIF1.gif' width="20%" height="20%" >
+  <img align='right' src='https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/GIF1.gif' width="40%" height="40%" >
+
+  
+### Oleanji Chainlink DAO
+    This Dapp uses these technologies:
+    - Rinkeby Testnet Network
+    - Chainlink Contracts
+    - IPFS and Pinata
+    - Hardhat
+    - Solidity
+    - Ether JS  Next JS 
   <br/>
-  This is gif One 
-  <br/>
-  <a> Link to Dapp. </a>
-  </div>
+  <a href="https://twitter-hackathon-project-review.vercel.app/"> Oleanji Chainlink DAO. </a>
+ 
 
 
 
   
 
-  <img  src='https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/GIF-2.gif' width="20%" height="20%"  >
-  <br/>
-  This is gif Two 
-  <br/>
-  <a> Link to Dapp. </a>
+  <img align='right' src='https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/GIF-2.gif' width="40%" height="40%"  >
   
-Initial Commit
+### MemeForest
+    This Dapp uses these technologies:
+    - Mumbai Testnet Network
+    - Openzeppelin Contracts
+    - Arweave and Bundlr
+    - Rainbow kit
+    - Hardhat
+    - Solidity
+    - Ether JS  Next JS 
+  <br/>
+  <a href="https://meme-forest-demo-fafgqyl1l-oleanjikingcode.vercel.app/"> Oleanji Chainlink DAO. </a>
+ 
+  
+
 
 
 ## Connect with Me 
