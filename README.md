@@ -5,8 +5,9 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&center=true&width=800&lines=FrontEnd+Developer+;Web+Developer;Blockend+Developer)](https://git.io/typing-svg)
 
 <img align='right' src='https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/coding-freak.gif' width="800" height="600">
-- I'm from Nigeria.
-- 🔭 I’m currently learning  building Application (Centeralised and Decentralised)
+
+
+- 🔭 I’m from Nigeria and i'm currently learning  building Application (Centeralised and Decentralised)
 - 🌱 I’m currently learning Javascript and Blockchain development
 - 💬 Ask me about HTML, CSS , JavaScript and Blockchain.
 - 📫 How to reach me: oleanji.sol@gmail.com
