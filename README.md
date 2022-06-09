@@ -71,9 +71,9 @@
 
 ## Connect with Me 
 <p align="center">
-<a  href="https://twitter.com/Oleanji_sol"><img alt="Adebayo's Twitter Link" src="https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/003-twitter.png" width="45%" /></a> 
-<a  href="https://www.linkedin.com/in/Adebayo-olamilekan-oleanji"><img src="https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/004-linkedin.png" width="45%"/></a>
-<a href="https://links-website-one.vercel.app/"><img alt="Adebayo's Links Websites" src="https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/link.png"  width="45%"  /> </a>
+<a  href="https://twitter.com/Oleanji_sol"><img alt="Adebayo's Twitter Link" src="https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/003-twitter.png" width="15%" /></a> 
+<a  href="https://www.linkedin.com/in/Adebayo-olamilekan-oleanji"><img src="https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/004-linkedin.png" width="15%"/></a>
+<a href="https://links-website-one.vercel.app/"><img alt="Adebayo's Links Websites" src="https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/link.png"  width="15%"  /> </a>
 </p>
 
 ## 📊 My Github Stats
