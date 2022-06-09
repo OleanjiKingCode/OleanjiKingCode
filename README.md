@@ -69,8 +69,8 @@
 
 
 
-## Connect with Me 
-<p align="center">
+## 🤝 Connect with Me 
+<p align="left">
 <a  href="https://twitter.com/Oleanji_sol"><img alt="Adebayo's Twitter Link" src="https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/003-twitter.png" width="5%" /></a> 
 <a  href="https://www.linkedin.com/in/Adebayo-olamilekan-oleanji"><img src="https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/004-linkedin.png" width="5%"/></a>
 <a href="https://links-website-one.vercel.app/"><img alt="Adebayo's Links Websites" src="https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/link.png"  width="5%"  /> </a>
