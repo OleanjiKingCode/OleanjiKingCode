@@ -20,67 +20,6 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,next,vscode,cs,dotnet,bootstrap,flutter,github,solidity,react,nextjs,tailwind,ts,mongodb,vercel.vscode)](https://skillicons.dev)
 
 
-# My Projects
-
-
-  
-### NFT AIR
-  <a href="https://improved-meme-forest.vercel.app/"> <img align='left' src='https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/mega.gif' width="40%" height="40%"  > </a>
-  
-    This Dapp uses these technologies:
-    - Mumbai Testnet Network
-    - Openzeppelin Contracts
-    - web3 storage 
-    - Rainbow kit
-    - Hardhat
-    - Solidity
-    - Ankr
-    - Ether JS  Next JS 
-  <a href="https://improved-meme-forest.vercel.app/">NFT AIR. </a>
-<br/>  
-<br/>
-<br/>
-  
-
-  
-### Oleanji Chainlink DAO
-   <a href="https://twitter-hackathon-project-review.vercel.app/"><img align='right' src='https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/GIF (1).gif' width="40%" height="40%" > </a> 
-
-    This Dapp uses these technologies:
-    - Rinkeby Testnet Network
-    - Chainlink Contracts
-    - IPFS and Pinata
-    - Hardhat
-    - Solidity
-    - Ether JS  Next JS 
-   <a href="https://twitter-hackathon-project-review.vercel.app/"> Oleanji Chainlink DAO. </a>
-  
-  
- 
-<br/>
-<br/>
-<br/>
-<br/>
-
-  
-
-  
-### MemeForest
-<a href="https://meme-forest-demo-app.vercel.app/"> <img align='left' src='https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/GIF (2).gif' width="40%" height="40%"  > </a>
-  
-    This Dapp uses these technologies:
-    - Mumbai Testnet Network
-    - Openzeppelin Contracts
-    - Arweave and Bundlr
-    - Rainbow kit
-    - Hardhat
-    - Solidity
-    - Ether JS  Next JS 
-  <a href="https://meme-forest-demo-app.vercel.app/">MemeForest. </a>
-  <br/>
-  
- 
-  
 
 
 
