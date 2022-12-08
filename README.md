@@ -17,7 +17,7 @@
 
 <h2 align="left">Languages and Tools:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,next,vscode,cs,dotnet,bootstrap,flutter,github,solidity,react,nextjs,tailwind,ts,mongodb,vercel.vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,next,vscode,cs,dotnet,bootstrap,flutter,github,solidity,react,tailwind,ts,mongodb,vercel)](https://skillicons.dev)
 
 
 
