@@ -3,7 +3,7 @@
 
 ## <h2 align="center"> Hi I'm Adebayo Olamilekan (Oleanji) <img src="https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/Hi.gif" width="30" height="30">   </h2>
 
-<img align='right' src='https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/coding-freak.gif' width="800" height="600">
+
 
 
 - 🔭 I’m from Nigeria and i'm currently learning  building Application (Centeralised and Decentralised)
