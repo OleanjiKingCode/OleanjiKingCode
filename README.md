@@ -4,14 +4,6 @@
 ## <h2 align="center"> Hi I'm Adebayo Olamilekan (Oleanji) <img src="https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/Hi.gif" width="30" height="30">   </h2>
 
 
-
-
-- 🔭 I’m from Nigeria and i'm currently building Applications (Centeralised and Decentralised)
-- 🌱 I’m currently learning Javascript and Blockchain development
-- 💬 Ask me about JavaScript, Next, Solidity  and Blockchain.
-- 📫 How to reach me: oleanji.sol@gmail.com / holamilean56@gmail.com
-- ⚡ Fun fact: I spend hours drawing and sketching.
-
 ![]("https://github.com/OleanjiKingCode/OleanjiKingCode/blob/9c9a349a5977740e569e318c303812e56600817e/giphy.gif" )
 
 
@@ -20,14 +12,6 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,next,vscode,cs,dotnet,bootstrap,flutter,github,solidity,react,tailwind,ts,mongodb,vercel)](https://skillicons.dev)
 
 
-
-
-
-## 🤝 Connect with Me 
-<p align="left">
-<a  href="https://twitter.com/Oleanji_sol"><img alt="Adebayo's Twitter Link" src="https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/003-twitter.png" width="5%" /></a> 
-<a  href="https://www.linkedin.com/in/Adebayo-olamilekan-oleanji"><img src="https://github.com/OleanjiKingCode/OleanjiKingCode/blob/master/004-linkedin.png" width="5%"/></a>
-</p>
 
 ## 📊 My Github Stats
 
